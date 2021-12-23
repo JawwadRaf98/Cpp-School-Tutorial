@@ -62,12 +62,12 @@ int main(){
 //	else{
 //		cout<<"equal";
 //	}
-
-	if(num1 <= num2){
-		cout<<"number 1 is geater than number 2";
-	}
-	else{
-		cout<<"not equal";
-	}
-    return 0;
+//
+//	if(num1 <= num2){
+//		cout<<"number 1 is geater than number 2";
+//	}
+//	else{
+//		cout<<"not equal";
+//	}
+//    return 0;
 }
